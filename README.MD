@@ -2,7 +2,8 @@
 
 The project inspired by `pwgen` Linux command-line utility.
 
-`Passphrase-gen` generates lists of words from the supplied dictionary.
+Script generates lists of words from the supplied dictionary.
+
 Pick at least three to create a memorable and strong passphrase.
 
 Put the default dictionary `corncob-lowercase.txt` in the same directory as the script.
